@@ -8,3 +8,6 @@ scikit-learn
 matplotlib
 seaborn
 plotly
+collections
+itertools
+math
