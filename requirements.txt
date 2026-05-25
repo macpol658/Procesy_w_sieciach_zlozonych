@@ -3,3 +3,5 @@ numpy
 SimPy
 networkx
 igraph
+scipy
+scikit-learn
