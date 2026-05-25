@@ -5,3 +5,6 @@ networkx
 igraph
 scipy
 scikit-learn
+matplotlib
+seaborn
+plotly
